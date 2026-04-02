@@ -11,3 +11,4 @@ def test_subtract():
 test_add()
 test_subtract()
 print("所有測試通過！")
+print("test 3")

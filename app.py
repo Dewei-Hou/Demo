@@ -9,3 +9,4 @@ if __name__ == "__main__":
     print(f"5 - 3 = {subtract(5, 3)}")
     print("demo success!")
     print("test CICD")
+    print("test 2")
